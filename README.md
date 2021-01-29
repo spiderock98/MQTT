@@ -21,3 +21,5 @@ brew install mosquitto
 * [mosquitto](https://mosquitto.org/)
 * [MQTT.js](https://www.npmjs.com/package/mqtt)
 * [Getting Started with Node.js and MQTT](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/)
+* [Tìm hiểu giao thức MQTT](http://arduino.vn/bai-viet/1236-tim-hieu-giao-thuc-mqtt)
+* [Giao thức MQTT - ESP8266](https://arduino.esp8266.vn/network/mqtt.html)
