@@ -20,3 +20,4 @@ brew install mosquitto
 ## Tham Khảo
 * [mosquitto](https://mosquitto.org/)
 * [MQTT.js](https://www.npmjs.com/package/mqtt)
+* [Getting Started with Node.js and MQTT](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/)
